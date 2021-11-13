@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Ellimis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# MS - Kim
 
-<!---
-Ellimis/Ellimis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## Stack
+자신있는 언어 & 기술
+<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+
+## Tool
+사용하는 도구
