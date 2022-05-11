@@ -22,13 +22,8 @@
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=planetside2)](https://solved.ac/planetside2)
  
- 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=planetside2">
- 
 - - -
 
- 
- 
 |제목|내용|설명|
 |:---|:---:|---:|
 ||중앙에서확장||
@@ -39,4 +34,4 @@
  
 <pre><code>test</code></pre>
  
- <pre>teset2</pre>
+<pre>teset2</pre>
