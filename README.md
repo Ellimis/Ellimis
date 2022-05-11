@@ -20,7 +20,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellimis&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
  
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=planetside2)](https://solved.ac/planetside2)
+[![Solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=planetside2)](https://solved.ac/planetside2)
  
 - - -
 
