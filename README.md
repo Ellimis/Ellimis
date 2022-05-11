@@ -16,6 +16,6 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellimis&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=planetside2)](https://solved.ac/planetside2)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=planetside2)](https://solved.ac/planetside2)
 
 ---
