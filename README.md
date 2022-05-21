@@ -42,4 +42,16 @@
  
 <pre>teset2</pre>
 
-<!--https://blog.slarea.com/git/markdown/github-badge/-->
+<!--
+Git Readme에 Badge 만들기
+https://blog.slarea.com/git/markdown/github-badge/
+-->
+<!--
+뱃지 로고 사이트
+https://simpleicons.org/
+-->
+<!--
+마크다운 사용법 예시
+https://gist.github.com/ihoneymon/652be052a0727ad59601
+http://taewan.kim/post/markdown/
+-->
