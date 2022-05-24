@@ -42,8 +42,8 @@
 |왼쪽에서확장||
 
  - - -
- <a href="https://www.naver.com/">
-  ![Naver](https://img.shields.io/badge/Naver-000000?style=plastic&logo=Naver&logoColor=white)
+<a href="https://www.naver.com/">
+  <img src="https://img.shields.io/badge/Test-red" style="height : auto; margin-left : 8px; margin-right : 8px;"/>
 </a>
  
  
