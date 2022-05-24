@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Minseok%20Kim&fontSize=90)
  
 ## Stack
-👻 자신있는 언어 & 기술 👻
+👻 자신있는 언어 👻
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
@@ -17,14 +17,14 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=plastic&logo=Unity&logoColor=white)
 ![UE4](https://img.shields.io/badge/UE4-EAEAEA?style=plastic&logo=Unreal%20Engine&logoColor=black)
 
-👻 디자인 활용 도구 👻
- ![Diagram](https://img.shields.io/badge/Diagram%20io-FF7F00.svg?style=plastic&logo=diagrams%2Enet&logoColor=white)
+👻 디자인 활용 가능 도구 👻
  
- <!--
- Photoshop
- afftereffect
- Premiere pro
- -->
+ ![Diagram](https://img.shields.io/badge/Diagram%20io-FF7F00.svg?style=plastic&logo=diagrams%2Enet&logoColor=white)
+ Adobe Photoshop #31A8FF
+ Adobe Premiere Pro #9999FF
+ Adobe After Effects #9999FF
+ 
+ 
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellimis&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
  
