@@ -19,17 +19,17 @@
 
 👻 디자인 활용 가능 도구 👻
  
- ![Diagram](https://img.shields.io/badge/Diagram%20io-FF7F00.svg?style=plastic&logo=diagrams%2Enet&logoColor=white)
- Adobe Photoshop #31A8FF
- Adobe Premiere Pro #9999FF
- Adobe After Effects #9999FF
- 
- 
+![Diagram](https://img.shields.io/badge/Diagram-FF7F00.svg?style=plastic&logo=diagrams%2Enet&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=plastic&logo=Adobe%20Photoshop&logoColor=white)
+![ Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white)
+
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellimis&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
  
- 
+<!--
 [![Solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=planetside2)](https://solved.ac/planetside2)
+-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ellimis&theme=onedark&no-frame=true&column=3&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/Ellimis/github-profile-trophy)
  
