@@ -18,8 +18,8 @@
 ![UE4](https://img.shields.io/badge/UE4-EAEAEA?style=plastic&logo=Unreal%20Engine&logoColor=black)
 
 👻 디자인 활용 도구 👻
+ ![Diagram](https://img.shields.io/badge/Diagram%20io-FF7F00.svg?style=plastic&logo=diagrams%2Enet&logoColor=white)
  
-![Diagram](https://img.shields.io/badge/Diagram-FF7F00.svg?style=plastic&logoColor=white)
  <!--
  Photoshop
  afftereffect
