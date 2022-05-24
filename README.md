@@ -64,4 +64,31 @@ http://taewan.kim/post/markdown/
 <a href="https://www.naver.com/">
   <img src="https://img.shields.io/badge/라벨-메시지-red" style="height : auto; margin-left : 8px; margin-right : 8px;"/>
 </a>
+
+
+
+
+
+
+### 개발 환경
+* ![Unity](https://img.shields.io/badge/Unity-000000?style=plastic&logo=Unity&logoColor=white)
+* ![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=plastic&logo=Android&logoColor=white)
+* ![Google Cardboard](https://img.shields.io/badge/Google%20Cardboard-FF7F00?style=plastic&logo=Google%20Cardboard&logoColor=white)
+* ![VS](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=Visual%20Studio&logoColor=white)
+* ![C#](https://img.shields.io/badge/C%23-239120.svg?style=plastic&logo=c-sharp&logoColor=white)
+
+### 사용한 오픈소스 목록
+* ![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84.svg?style=plastic&logo=Android%20Studio&logoColor=white)
+* ![Open JDK](https://img.shields.io/badge/Open%20JDK-000000.svg?style=plastic&logo=OpenJDK&logoColor=white)
+* ![Cardboard XR Plugin](https://img.shields.io/badge/Cardboard%20XR%20Plugin-FF7F00?style=plastic&logo=Google%20Cardboard&logoColor=white)
+* ![DOTween](https://img.shields.io/badge/DOTween-00FF80.svg?style=plastic&logoColor=white)
+
+### 사용한 도구
+* ![Diagram](https://img.shields.io/badge/Diagram-FF7F00.svg?style=plastic&logo=diagrams%2Enet&logoColor=white)
+* ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=plastic&logo=Adobe%20Photoshop&logoColor=white)
+* ![Insta360](https://img.shields.io/badge/Insta%20360-000000.svg?style=plastic&logoColor=white)
+* ![Homestyler](https://img.shields.io/badge/Homestyler-3CC2FF.svg?style=plastic&logoColor=white)
+* ![Vapshion2](https://img.shields.io/badge/Vapshion%202-F44336.svg?style=plastic&logoColor=white)
+
+
 -->
