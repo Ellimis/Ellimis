@@ -48,7 +48,7 @@
  
  
  [Google](http://www.google.co.kr)\test\[1]
- 
+ \[1]: http://www.google.co.kr
  
 <pre><code>test</code></pre>
  
