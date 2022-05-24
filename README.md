@@ -61,6 +61,15 @@ https://simpleicons.org/
 https://gist.github.com/ihoneymon/652be052a0727ad59601
 http://taewan.kim/post/markdown/
 
+[LYNMP 도움말] 마크다운(Markdown) 문법 - 링크 삽입
+https://lynmp.com/ko/article/title/markdown-link-ua811c9dc59o
+
+링크가 있는 뱃지
+https://melonicedlatte.com/2021/07/17/163400.html
+
+%20과 같은 인코딩 종류
+https://en.wikipedia.org/wiki/Percent-encoding
+
 <a href="https://www.naver.com/">
   <img src="https://img.shields.io/badge/라벨-메시지-red" style="height : auto; margin-left : 8px; margin-right : 8px;"/>
 </a>
