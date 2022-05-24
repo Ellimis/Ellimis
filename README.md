@@ -20,6 +20,11 @@
 👻 디자인 활용 도구 👻
  
 ![Diagram](https://img.shields.io/badge/Diagram-FF7F00.svg?style=plastic&logoColor=white)
+ <!--
+ Photoshop
+ afftereffect
+ Premiere pro
+ -->
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellimis&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
  
@@ -37,6 +42,10 @@
 |왼쪽에서확장||
 
  - - -
+ 
+ <a href="http://melonicedlatte.com/"><img src="https://img.shields.io/badge/라벨-메시지-red" style="height : auto; margin-left : 8px; margin-right : 8px;"/>
+</a>
+ 
  
 <pre><code>test</code></pre>
  
