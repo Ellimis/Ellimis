@@ -42,7 +42,8 @@
 |왼쪽에서확장||
 
  - - -
- <a href="https://www.naver.com/"><img src="https://img.shields.io/badge/Naver-000000?style=plastic&logo=Naver&logoColor=white>
+ <a href="https://www.naver.com/">
+  ![Naver](https://img.shields.io/badge/Naver-000000?style=plastic&logo=Naver&logoColor=white)
 </a>
  
  
@@ -63,9 +64,7 @@ https://simpleicons.org/
 https://gist.github.com/ihoneymon/652be052a0727ad59601
 http://taewan.kim/post/markdown/
 
-<a href="https://www.naver.com/"><img src="https://img.shields.io/badge/라벨-메시지-red" style="height : auto; margin-left : 8px; margin-right : 8px;"/>
+<a href="https://www.naver.com/">
+  <img src="https://img.shields.io/badge/라벨-메시지-red" style="height : auto; margin-left : 8px; margin-right : 8px;"/>
 </a>
-  
-  
- ![Unity](https://img.shields.io/badge/Naver-000000?style=plastic&logo=Naver&logoColor=white)
 -->
