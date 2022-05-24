@@ -43,7 +43,7 @@
 
  - - -
 <a href="https://www.naver.com/">
-  <img src="https://img.shields.io/badge/Test-red" style="height : auto; margin-left : 8px; margin-right : 8px;"/>
+  <img src="https://img.shields.io/badge/Test-red" style="height : auto; margin-left : 8px; margin-right : 8px; background-color: black"/>
 </a>
  
  
