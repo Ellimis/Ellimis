@@ -10,14 +10,15 @@
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 
 ## Tool
-👻 사용하는 도구 👻
+👻 개발에 사용하는 도구 👻
  
 ![VS](https://img.shields.io/badge/VS-%235C2D91.svg?style=plastic&logo=Visual%20Studio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=Visual%20Studio%20Code&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=plastic&logo=Unity&logoColor=white)
 ![UE4](https://img.shields.io/badge/UE4-EAEAEA?style=plastic&logo=Unreal%20Engine&logoColor=black)
+![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=plastic&logo=Notepad%2B%2B&logoColor=black)
 
-👻 디자인 활용 가능 도구 👻
+👻 디자인 활용 도구 👻
  
 ![Diagram](https://img.shields.io/badge/Diagram-FF7F00.svg?style=plastic&logo=diagrams%2Enet&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=plastic&logo=Adobe%20Photoshop&logoColor=white)
